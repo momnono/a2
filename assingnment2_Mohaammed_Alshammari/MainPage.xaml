@@ -4,7 +4,7 @@
              x:Class="assignment2_Mohammed_Alshammari.MainPage">
 
     <StackLayout>
-        <Label Text="List of Provinces" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="List of Provinces" FontSize="Large" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
 
         <ListView x:Name="provinceListView" ItemSelected="OnProvinceSelected">
             <ListView.ItemTemplate>
