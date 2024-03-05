@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="assingnment2_Mohaammed_Alshammari.MainPage">
+             x:Class="assignment2_Mohammed_Alshammari.MainPage">
 
     <StackLayout>
-        <Label Text= "list of provinces" FontSize="Large" HorizontalOptions = "Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="List of Provinces" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
 
         <ListView x:Name="provinceListView" ItemSelected="OnProvinceSelected">
             <ListView.ItemTemplate>

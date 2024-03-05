@@ -1,6 +1,5 @@
 ﻿using Microsoft.Maui.Controls;
 using System.Collections.Generic;
-using assignment2_Mohammed_Alshammari.pages;
 
 namespace assignment2_Mohammed_Alshammari
 {
